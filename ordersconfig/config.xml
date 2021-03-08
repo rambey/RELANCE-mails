@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>ordersconfig</name>
+	<displayName><![CDATA[Orders Config]]></displayName>
+	<version><![CDATA[1.0.0]]></version>
+	<description><![CDATA[add Orders Config for sending mail]]></description>
+	<author><![CDATA[evolutive group]]></author>
+	<tab><![CDATA[administration]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>
